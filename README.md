@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-- Acabo de graduarme como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+- Acabo de graduarme como Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 - Me decanto mucho más por el desarrollo Front-End que por el Back-End. Me considero una persona creativa y me apasiona el diseño de interfaces, la experiencia de usuario y darle vida a las ideas visuales.
 - Mi objetivo principal ahora mismo es absorber todo el conocimiento posible, aprender de mis compañeros en el entorno laboral y dominar a fondo las tecnologías de desarrollo.
 
